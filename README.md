@@ -1,5 +1,5 @@
 # Sarcasmify
-Sarcasmify is a tiny library for converting normal text into InTeRnET SaRcAsM via a React hook.
+Sarcasmify is a React hook for converting normal text into InTeRnET SaRcAsM.
 
 ## Installation
 ```shell
@@ -23,3 +23,6 @@ export default function MyComponent() {
   );
 }
 ```
+
+## Live demo
+A live demo is available on StackBlitz [here](https://stackblitz.com/edit/react-1wtve2?file=src/App.js). 

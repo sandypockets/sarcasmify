@@ -1,1 +1,1 @@
-export { useSarcasm } from './sarcasmify'
+export { useSarcasm } from './sarcasmify';
