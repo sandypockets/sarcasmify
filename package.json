@@ -1,13 +1,24 @@
 {
   "name": "sarcasmify",
   "description": "A tiny library for converting plaintext iNtO iNtErNeT SaRcAsM",
-  "version": "1.1.0",
+  "keywords": ["sarcasm", "sarcastic", "converter", "text", "convert to sarcasm", "useSarcasm"],
+  "homepage": "https://github.com/sandypockets/sarcasmify#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandypockets/sarcasmify.git"
+  },
+  "author": {
+    "name": "sandypockets",
+    "url": "https://sandypockets.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/sandypockets/sarcasmify/issues"
+  },
+  "version": "1.2.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "license": "MIT",
   "scripts": {
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
     "build": "node esbuild.js"
   },
   "peerDependencies": {
