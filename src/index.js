@@ -1,0 +1,1 @@
+export { useSarcasm } from './sarcasmify'
